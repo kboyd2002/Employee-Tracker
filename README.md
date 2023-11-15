@@ -25,11 +25,6 @@ to add and view employees in a sql database
 ## Contributing
 Contributions are welcome!
 
-## Tests
-To run tests, use the following command:
-```
-npm test
-```
 
 ## Questions
 If you have any questions, feel free to reach out to me:
