@@ -1,4 +1,10 @@
 # Employee-Tracker
+## Walkthrough Video
+
+
+https://github.com/kboyd2002/Employee-Tracker/assets/145223393/85ad2e86-7ade-4547-9753-3ec5b229eedf
+
+
 
 ## Description
 A simple app for keeping track of all employees, used through node and the terminal
