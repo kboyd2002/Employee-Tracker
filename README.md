@@ -19,6 +19,7 @@ A simple app for keeping track of all employees, used through node and the termi
 
 ## Usage
 to add and view employees in a sql database
+```node server.js```
 
 
 ## Contributing
